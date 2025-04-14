@@ -56,10 +56,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=xrafiy71&" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=xrafiy71&show_icons=true&locale=en" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=RafiTechie&" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=RafiTechie&show_icons=true&locale=en" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xrafiy71&show_icons=true&locale=en&layout=compact" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafiTechie&show_icons=true&locale=en&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
